@@ -1,0 +1,101 @@
+{
+  "source_file": "article.txt",
+  "experiments": [
+    {
+      "reasoning": "The experiment investigates the preservation qualities of different substances and their effects on preventing or promoting putrefaction.",
+      "description": "A mixture was created with yolk of an egg, fresh and diluted in water. A thread dipped in a piece from this mix was placed into separate phials to observe the rate and extent of putrefaction when exposed to heat near a fire after sealing them off.",
+      "quote": "The Thread infected the fresh Yolk; for the Putrefaction was more perceptible in the Phial that contained it, than in the other. But this Experiment was not repeated.",
+      "outcome": "Thread accelerated putrefaction of fresh yolk when compared to a control phial with diluted egg alone.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "This experiment examines how different substances affect the rate at which meat putsrefies in controlled conditions simulating putrid environments and interactions between animal blood serum and meats. It also touches on digestion issues related to these effects.",
+      "description": "Sea salt was used with two ounces of water, preserving fresh beef for over 30 hours at body temperature; the effectiveness varied based on quantity ratio (one grain per two ounces).",
+      "quote": "One Drachm of Salt preserves two Drachms of fresh Beef, in two Ounces of Water, above 30 Hours, uncorrupted.",
+      "outcome": "Salt at one-to-two ratio demonstrated effective meat preservation for extended periods under specific conditions; smaller quantities had different effects on softening and relaxing the texture of meat rather than preventing putrefaction.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An exploration into how various substances mixed with animal blood can impact its propensity to induce or combat septic conditions.",
+      "description": "Fresh beef was combined with vipers and the serum of human blood in separate experiments, while another set used only fresh beef without additional agents. The effects on putrefaction were noted.",
+      "quote": "The Flies were tried both with fresh Beef, and with the *Serum* of human Blood; the Vipers only with the former... but neither of them haflened Putrefaction.",
+      "outcome": "Viper venom did not promote putrefaction in beef; serum from human blood was less effective than vipers alone at inducing decay.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An investigation into the antiseptic properties of common substances and their comparative effectiveness against putrefaction.",
+      "description": "Chalk was observed for its effects when combined with ox'se on in a phial, as well as separately infused meat. The interaction between chalk powder and flesh is noted to be significant.",
+      "quote": "Twenty Grains of Crabs-eyes prepared...into another Phial was put nothing but Gall and Water; both being placed in the Furnace, the Putrefaction began much sooner where the Powder was, than in the other.",
+      "outcome": "Chalk mixed with gall promoted rapid decay when heated compared to phials containing just water and gall alone.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An exploration of the antiseptic effects of chalk in acidic solutions on meat preservation.",
+      "description": "Chalk was infused into a phial with flesh and water alongside barley mucilage, observing any decomposition over time under heat digestion conditions.",
+      "quote": "The plain Water swelled the Barley... remained sweet; that with the Powder kept the Grain to its natural Size...",
+      "outcome": "Barley retained size and sweetness without mucilage production when mixed with chalk, unlike water alone.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An experiment to determine the antiseptic properties of different types of salt on meat preservation and decomposition rates",
+      "description": "Salt from Hartshorn was used in conjunction with flesh inside a phial alongside plain water, noticing any changes over time.",
+      "quote": "...but half a Drachm of Salt does not preserve it above 2 Hours longer.",
+      "outcome": "Small amounts of salt had limited preserving effect; larger quantities hastened decay rather than preventing putrefaction. Smaller or zero quantity salts induced softening and further decomposition.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An examination of how different types of salt affect meat's propensity to go bad under specific conditions that mimic the human body environment",
+      "description": "The impact on flesh decay was observed when using various salts at a standardized ratio in relation to water, testing their antiseptic properties over time.",
+      "quote": "...the most putrid Parts are also the most fugitive; they insuffl",
+      "outcome": "Fast-decomposing parts of meat spread quickly due to being light and carried by air but were contained in a controlled environment, suggesting that decay is hastened without external factors like heat or moisture.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An experiment aimed at understanding the role of chalk and salt as potential antiseptics in putrefaction processes",
+      "description": "Chalk was observed for its effects when used with ox'gall, noticing any decomposition or preservation over time.",
+      "quote": "...and Care was taken to shake both Mixtures alike: But, after three Days warm Digestion... the Salt had neither tainted nor soften",
+      "outcome": "Chalk did not prevent decay when compared with a control mixture of flesh and water; instead it seemed to consume meat in its presence.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An experiment that explores the antiseptic properties of salt under different conditions (warm infusions) on flesh softening and decomposition",
+      "description": "Small quantities of various salts were used in warm water solutions to observe their effects on meat's texture over time.",
+      "quote": "...instead of hardening the Flesh, as it does in a dry Form...",
+      "outcome": "Chalk and larger salt amounts had no antiseptic effect but rather softened flesh under conditions that would normally preserve food. This suggests their role is not primarily preventative against putrefaction.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "The experiment aimed to understand the interaction between chalk and acidic solutions on meat preservation.",
+      "description": "Barley was infused with water alone or mixed with a powderized form of common salt, then observed for any changes in flesh over time during prolonged heat digestion.",
+      "quote": "...by conquering the Putrefency... generated much Air...",
+      "outcome": "Acidic solutions from barley infusions produced more air and could prevent decay by generating acidity, suggesting they were not traditional antiseptics but rather influenced meat digestion.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An examination of the role common kitchen salts play in putrefaction processes",
+      "description": "The use and impact on flesh decay were observed with sea salt alone or mixed with barley infusions, considering their roles as antiseptics.",
+      "quote": "...half a Drachm of Salt does not preserve it above 2 Hours longer.",
+      "outcome": "Sea salt had limited preserving effect and under certain conditions actually softened the flesh rather than acting against decay. Small quantities hasten putrefaction, contrary to its assumed antiseptic properties.",
+      "location": null,
+      "individuals": null
+    },
+    {
+      "reasoning": "An inquiry into how different types of salts interact with meat and potentially induce or prevent decay",
+      "description": "Different quantities of salt were used to preserve beef in water under body-temperature conditions, noticing any preserving effects over time.",
+      "quote": "...one grain per two ounces. The Fact is thus... half a Drachm of Salt does not preserve it above",
+      "outcome": "Small quantities did nothing to prevent putrefaction and instead encouraged decay, contradicting the assumption that salt acts primarily as an antiseptic in meat preservation.",
+      "location": null,
+      "individuals": null
+    }
+  ]
+}

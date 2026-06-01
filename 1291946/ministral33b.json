@@ -1,0 +1,21 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "laboratory setup involving a prime conductor (tin tube) supported by silk lines",
+      "geography": "Philadelphia",
+      "detail": "a room or indoor space where experiments are conducted with a setup including a 5-foot-long tin conductor, glass tube, and suspended tassels of threads"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Mr. Peter Collinson, F. R. S.",
+      "role": "communicator, correspondent"
+    },
+    {
+      "name": "Mr. Benjamin Franklin",
+      "role": "author, experimenter, and contributor to explanations"
+    }
+  ]
+}

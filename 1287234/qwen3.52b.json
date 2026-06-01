@@ -1,0 +1,11 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "Grefham College",
+      "geography": "null",
+      "detail": "null"
+    }
+  ]
+}

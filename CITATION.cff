@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+type: software
+title: "Philosophical Transactions Extraction Model Comparison"
+message: "If you use this site or its data, please cite it using these metadata."
+url: "https://github.com/DigitalHistory-Lund/SecToPat-PhilTransModelSelection"
+version: 0.1.0
+date-released: "2026-05-15"
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Johansson
+    given-names: Mathias
+    email: MathiasJohansson@kultur.lu.se
+    orcid: https://orcid.org/0000-0002-3338-0551
+  - family-names: Klein Käfer
+    given-names: Natacha
+    orcid: https://orcid.org/0000-0002-6766-9943

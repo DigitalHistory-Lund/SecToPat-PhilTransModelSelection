@@ -1,0 +1,21 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": null,
+      "geography": null,
+      "detail": null
+    },
+    {
+      "place": "Grefham College",
+      "geography": "England",
+      "detail": " Evacuated Receiver"
+    },
+    {
+      "place": null,
+      "geography": "London",
+      "detail": ""
+    }
+  ]
+}

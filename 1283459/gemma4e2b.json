@@ -1,0 +1,17 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "Window",
+      "geography": null,
+      "detail": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Robert Boyle Esq.",
+      "role": "author"
+    }
+  ]
+}

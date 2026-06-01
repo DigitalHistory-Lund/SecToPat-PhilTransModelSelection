@@ -1,0 +1,40 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "a Window",
+      "geography": null,
+      "detail": "in a Conical Glass placed in a window"
+    },
+    {
+      "place": "a South-window",
+      "geography": null,
+      "detail": "in a South-window"
+    },
+    {
+      "place": "a private study or study setting (implied by 'quiet and well enlightened place')",
+      "geography": null,
+      "detail": null
+    },
+    {
+      "place": "a room or laboratory (implied by 'quiet and well enlightened place' and 'a quiet and well enlighten'd place')",
+      "geography": null,
+      "detail": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "Robert Boyle",
+      "role": "experimenter, communicator, author"
+    },
+    {
+      "name": "Honourable Robert Boyle Esq.",
+      "role": "experimenter, communicator"
+    },
+    {
+      "name": "Learned Secretary of the Royal Society",
+      "role": "witness"
+    }
+  ]
+}

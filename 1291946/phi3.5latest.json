@@ -1,0 +1,11 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "private study/laboratory (not specified at room or building scale)",
+      "geography": "Philadelphia, Pennsylvania, USA",
+      "detail": null
+    }
+  ]
+}

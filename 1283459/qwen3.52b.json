@@ -1,0 +1,26 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "Window",
+      "geography": null,
+      "detail": "in a Window"
+    },
+    {
+      "place": "Window",
+      "geography": null,
+      "detail": "in the window"
+    },
+    {
+      "place": "South-window",
+      "geography": null,
+      "detail": "in a South-window"
+    },
+    {
+      "place": "quiet and well enlighten'd place",
+      "geography": null,
+      "detail": "in a quiet and well enlighten'd place"
+    }
+  ]
+}

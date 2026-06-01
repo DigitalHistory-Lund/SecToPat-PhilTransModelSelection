@@ -1,0 +1,25 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "null",
+      "geography": "Philadelphia",
+      "detail": "null"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Mr. Canton",
+      "role": "author"
+    },
+    {
+      "name": "Mr. Benjamin Franklin",
+      "role": "author"
+    },
+    {
+      "name": "Mr. Peter Collinfon, F. R. S.",
+      "role": "author"
+    }
+  ]
+}

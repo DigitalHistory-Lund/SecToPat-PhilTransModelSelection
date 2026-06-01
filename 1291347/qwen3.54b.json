@@ -1,0 +1,195 @@
+{
+  "source_file": "article.txt",
+  "experiments": [
+    {
+      "reasoning": "Observation of antiseptic effects of plant substances on animal humours compared to water and salt.",
+      "description": "Used decoctions and infusions (Wormwood, Bark, Chamomile, Snake-root) to preserve Yolks of Eggs compared to Water and Sea-Salt; later compared Salt of Hartshorn against Sea-Salt.",
+      "quote": "I likewise found that Salt of Hartshorn preserved this Substance better than four times its Weight of Sea-Salt.",
+      "outcome": "Salt of Hartshorn preserved the substance better than four times its weight of Sea-Salt.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of antiseptic effects of various chemicals on Ox's Gall.",
+      "description": "Small quantities of Lye of Tartar, Spirit of Hartshorn, crude Sal Ammoniac, saline Mixture, and plant solutions mixed with Ox's Gall.",
+      "quote": "Ox's Gall was kept some time from Putrefaction by small Quantities of Lye of Tartar, Spirit of Hartshorn, crude Sal Ammoniac, and the saline Mixture, and still longer by a Decoction of Wormwood, Infusions of Chamomile-flowers, and of Snake-root; by Solutions of Myrrh, Camphire, and Salt of Amber",
+      "outcome": "Most substances preserved Gall better than Sea-Salt; Nitre failed.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Test of Nitre on Ox's Gall compared to its effect on Flesh.",
+      "description": "Comparing Nitre against Crude Sal Ammoniac and Sea-Salt in keeping Flesh sweet and preserving Gall.",
+      "quote": "Only Nitre failed; which, tho' four times stronger than Sea-Salt in keeping Flesh sweet, is inferior to it in preserving Gall",
+      "outcome": "Nitre emitted Air (fermented) and allowed Gall to putrefy; Sal Ammoniac > Nitre > Sea Salt.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Test of antiseptic efficacy of plant infusions on Serum of Human Blood compared to Flesh.",
+      "description": "Mixed Decoction of Bark, Infusion of Snake-root, Saffron, and Camphire with Serum of human Blood.",
+      "quote": "The last Trial was with the Serum of human Blood, which was preferred by a Decotion of the Bark, and an Infusion of Snake-root, nor with lef Sfficacy than Flesh.",
+      "outcome": "Bark and Snake-root preferred; Saffron and Camphire less effective than with Flesh.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Camomile's effect on Egg Yolk putrefaction.",
+      "description": "Diluted Yolk with Water, added few drops of strong Infusion of Camomile-flowers, corked, and kept near a Fire.",
+      "quote": "A Portion of this, being diluted with Water, flood till it corrupted; when a few Drops were put into a Phial with two Ounces of pure Water, and about twice as many Drops were mixed with a strong Infusion of Camomile-flowers.",
+      "outcome": "Water caused putrid smell; Camomile mixture smelled of Flowers only.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of contagion via putrid thread spreading putrefaction.",
+      "description": "Cut a Bit of putrid Egg Yolk (thread dipped), put into Phial with fresh Yolk + Water. Control Phial with fresh Yolk + Water.",
+      "quote": "In the Yolk of an Egg, already putrid, a small Thread was dipped, and a small Bit of this was cut off and put into a Phial, with Half of the Yolk of a new-laid Egg diluted with Water.",
+      "outcome": "Putrefaction perceived sooner in the contaminated Phial than the control.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Systematic observation of air conditions on meat putrefaction.",
+      "description": "Observation of how putrid parts disperse with wind vs stagnate in confined air.",
+      "quote": "In this manner the Putrefaction of Meat advances quicker in a confined than a free Air",
+      "outcome": "Putrefaction advances quicker in confined air; stagnation excites it to Corruption.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Volatile Salts' effect on Fibres in warm infusion.",
+      "description": "Tested Volatile Salts in warm Infusions compared to Water.",
+      "quote": "yet, in warm Infusions, a small Quantity of these Salts will soften and resolve the Fibres, more than Water does by itself.",
+      "outcome": "Volatile Salts soften/resolve Fibres in warm infusions, unlike in dry form.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Volatile Salts' ability to preserve dry meat.",
+      "description": "Kept a small Piece of Flesh in a Phial preserved only with Salt of Hartthorn (Hartshorn) since the Beginning of June.",
+      "quote": "For, so little do these Salts putrefy, or even resolve the Fibres, when applied dry, that I have kept, since the Beginning of june last, notwithstand-ing the excesive Heats, a small Piece of Flesh in a Phial, preserved only with Salt of Hartthorn, at present perfectly sound, and firmer than when first salted.",
+      "outcome": "Flesh preserved perfectly sound and firmer than when first salted.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of vegetable plants (Carrots/Cabbage) on Putrefaction.",
+      "description": "Tested Carrots, Turneps, Garlick, Onions, Celery, Cabbage, and Colewort.",
+      "quote": "From the Specimens we had of the antiforbutic Plants, it is likewise probable none of that Tribe will prove septic. Horse-radish, one of the most acrid, is a very powerful Antiseptic. And tho' Carrots, Turneps, Garlick, Onions, Celery, Cabbage, and Colewort, were tried (as Alcarecents) they did not hasten, but somewhat retarded, the Putrefaction.",
+      "outcome": "Carrots, Turneps, etc. did not hasten putrefaction, but somewhat retarded it.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of farinaeous vegetables (Grains) on Putrefaction.",
+      "description": "Tested white Bread in Infusion, Decoctions of Flour, Barley, and Oatmeal.",
+      "quote": "The Case was different with such farinaeous Vegetables as were examined; viz. white Bread in Infusion, Decoctions of Flour, Barley, and Oatmeal; for these did not at all retard Putrefaction; but, after it was somewhat advanced, they check'd it, by turning four.",
+      "outcome": "Grains check'd putrefaction after advancing it via acidification (generated much Air).",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of animal substances (Cantharides/Vipers/Castror) on Beef/Blood.",
+      "description": "Tested Cantharides, dried Vipers, and Russian Castror with fresh Beef and Serum of human Blood.",
+      "quote": "I examined *Cantharides*, dried Vipers, and *Russian Castror*, all animal Substances, and therefore most likely to prove septic. The Flies were tried both with fresh Beef, and with the *Serum* of human Blood; the Vipers only with the former; but neither of them haflened Putrefaction.",
+      "outcome": "None hastened putrefaction; Castror infusion opposed it more than standard Salt.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Chalk/Tefacea on Ox's Gall.",
+      "description": "Mixed Twenty Grains of prepared Chalk with 6 Drachms of Ox's Gall, and as much Water.",
+      "quote": "Twenty Grains of Crabs-eyes prepared, were mixed with 6 Drachms of Ox's Gall, and as much Water; into another Phial was put nothing but Gall and Water, in the same Quantity with the former; and both being placed in the Furnace, the Putrefaction began much sooner, where the Powder was, than in the other Phial.",
+      "outcome": "Putrefaction began sooner where the Powder (Crabs-eyes/Chalk) was.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Chalk on Flesh in Furnace.",
+      "description": "Infused 30 Grains of prepared Chalk with Flesh and Water in the Lamp-Furnace.",
+      "quote": "I infused afterwards in the Lamp-Furnace 30 Grains of prepared Chalk, with the usual Quantity of Flesh and Water; and observed, that the Corruption not only began sooner, but went higher by this Mixture; nay, what had never happened before, that in a few Days the Flesh re-folved into a perfect Mucus.",
+      "outcome": "Corruption began sooner, went higher; Flesh resolved into a perfect Mucus.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Comparison of Chalk Powder vs Salt of Wormwood on Flesh.",
+      "description": "Pounded Chalk (30 Grains) compared with equal Quantity of Salt of Wormwood.",
+      "quote": "The same Powder was compared with an equal Quantity of Salt of Wormwood, and Care was taken to shake both the Mixtures alike: But, after three Days warm Digeition, the Salt had neither tainted nor soften'd the Flesh, whilst the Chalk had rotted and consumed that which was joined to it.",
+      "outcome": "Salt did not tarnish/soften; Chalk rotted and consumed the flesh.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Egg-shells on Meat.",
+      "description": "Tested Egg-shells in Water against Meat preservation.",
+      "quote": "Egg-shells in Water resisted Putrefaction, and preserved the Meat longer firm than plain Water *.",
+      "outcome": "Preserved Meat longer firm than plain Water.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Tectace on Barley.",
+      "description": "Infused Tectace with Barley and Water, compared with Barley and Water (without Tectace).",
+      "quote": "To try whether the Tectace would also dissolve vegetable Substances, I infused them with Barley and Water, and compared this Mixture with another of Barley and Water, without the Tectace.",
+      "outcome": "With Powder: Grain kept natural Size, no Mucilage. Without: Swelled, Mucilaginous.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Sea Salt on fresh Beef.",
+      "description": "One Drachm of Salt preserved two Drachms of fresh Beef, in two Ounces of Water.",
+      "quote": "One Drachm of Salt preserves two Drachms of fresh Beef, in two Ounces of Water, above 30 Hours, uncorrupted, in a Heat equal to that of the human Body",
+      "outcome": "Salt preserved Beef above 30 Hours uncorrupted in human heat.",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    },
+    {
+      "reasoning": "Observation of Sea Salt in warm Infusions on Meat.",
+      "description": "Tested smaller Quantities (10-20 Grains) of Salt in warm Infusions on Meat texture.",
+      "quote": "It is moreover to be remarked, that in warm Infusions with these smaller Quantities, the Salt, instead of hardening the Flesh, as it does in a dry Form, in Brine, or even in Solutions, such as our Standard, it here softens and re-laxes the Texture of the Meat, more than plain Water",
+      "outcome": "Small salt quantity softens and re-laxes Texture of Meat (hastens corruption).",
+      "location": "null",
+      "individuals": [
+        "John Pringle M. D. F. R. S."
+      ]
+    }
+  ]
+}

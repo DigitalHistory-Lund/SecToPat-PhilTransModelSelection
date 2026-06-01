@@ -1,0 +1,115 @@
+{
+  "source_file": "article.txt",
+  "experiments": [
+    {
+      "reasoning": "This counts as an experiment because it involves testing a specific substance's effect on putrefaction.",
+      "description": "Decoctions of Wormwood and Bark, Infusions of Chamomile-flowers, and preserved Yolks of Eggs were tested with Sea-Salt. The results showed that the combination of these substances was more effective than using just Sea-Salt alone.",
+      "quote": "\"the Decoctions of Wormwood and the Bark, as well as the Infusions of Chamomile-flowers, and the preserved Yolks of Eggs, not only several Days longer than Water did alone, but also when a good Quantity of Sea-Salt was added to it.\"",
+      "outcome": "Preserved for several days longer than with just Sea-Salt.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Ox's Gall was kept from putrefaction with small quantities of various substances, including Lye of Tartar, Spirit of Hartshorn, crude Sal Ammoniac, and saline Mixture. The results showed that some substances were more effective than others in preventing putrefaction.",
+      "quote": "\"the Ox's Gall was kept some time from Putrefaction by small Quantities of Lye of Tartar, Spirit of Hartshorn, crude Sal Ammoniac, and the saline Mixture, and still longer by a Decoction of Wormwood, Infusions of Chamomile-flowers, and of Snake-root\"",
+      "outcome": "Prevented putrefaction for a longer period.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Serum of human Blood was tested with various substances, including Bark, Snake-root, and Saffron. The results showed that some substances were more effective than others in preventing putrefaction.",
+      "quote": "\"The last Trial was with the Serum of human Blood, which was preferred by a Decotion of the Bark, and an Infusion of Snake-root, nor with lef Sfficacy than Flesh.\"",
+      "outcome": "Prevented putrefaction with similar efficacy to other substances.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Yolk of an Egg was tested with various substances, including plain Water and Infusions of Camomile-flowers. The results showed that some substances were more effective than others in preventing putrefaction.",
+      "quote": "\"At first both Phials had some Degree of a putrid Smell; but being corked, and kept a few Days near a Fire, the Mixture with plain Water contracted a strong Factor, whilst the other smelled only of the Flowers.\"",
+      "outcome": "Prevented putrefaction in one of the mixtures.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Nitre was tested with various substances, including flesh and Blood. The results showed that Nitre was not effective in preventing putrefaction.",
+      "quote": "\"Only Nitre failed; which, tho’ four times stronger than Sea-Salt in keeping Flesh sweet, is inferior to it in preserving Gall; and remarkably weaker than crude Sal Ammoniac; which again is somewhat less powerful than Nitre in preserving Flesh.\"",
+      "outcome": "Failed to prevent putrefaction.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Chalk was tested with various substances, including Gall and Water. The results showed that Chalk caused putrefaction to occur faster than expected.",
+      "quote": "\"the Corruption not only began sooner, but went higher by this Mixture; nay, what had never happened before, that in a few Days the Flesh re-folved into a perfect Mucus.\"",
+      "outcome": "Caused putrefaction to occur faster and more severely.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Crabs-eyes were tested with various substances, including Gall and Water. The results showed that Crabs-eyes caused putrefaction to occur faster than expected.",
+      "quote": "\"Twenty Grains of Crabs-eyes prepared, were mixed with 6 Drachms of Ox's Gall, and as much Water; into another Phial was put nothing but Gall and Water, in the same Quantity with the former; and both being placed in the Furnace, the Putrefaction began much sooner, where the Powder was, than in the other Phial.\"",
+      "outcome": "Caused putrefaction to occur faster.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Egg-shells were tested with various substances, including plain Water and Salt. The results showed that Egg-shells caused meat to remain firm for longer periods than expected.",
+      "quote": "\"Egg-shells in Water resisted Putrefaction, and preserved the Meat longer firm than plain Water.\"",
+      "outcome": "Prevented putrefaction.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Tectace was tested with various substances, including Barley and Water. The results showed that Tectace did not cause putrefaction to occur in these mixtures.",
+      "quote": "\"To try whether the Tectace would also dissolve vegetable Substances, I infused them with Barley and Water, and compared this Mixture with another of Barley and Water, without the Tectace. After a long Maceration by a Fire, the plain Water swelled the Barley, became mucilaginous and four; but that with the Powder kept the Grain to its natural Size, tho’ it softened it, made no Mucilage, and remained sweet.\"",
+      "outcome": "Did not cause putrefaction.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different substances on putrefaction.",
+      "description": "Sea Salt was tested with various mixtures, including flesh and Water. The results showed that Sea Salt caused putrefaction to occur faster than expected.",
+      "quote": "\"One Drachm of Salt preserves two Drachms of fresh Beef, in two Ounces of Water, above 30 Hours, uncorrupted, in a Heat equal to that of the human Body; or, what amounts to the same, this Quantity of Salt keeps Flesh about 20 Hours longer sweet, than pure Water;\"",
+      "outcome": "Caused putrefaction to occur faster.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    },
+    {
+      "reasoning": "This counts as an experiment because it involves testing the effect of different quantities of Salt on putrefaction.",
+      "description": "Different quantities of Salt were tested with flesh and Water. The results showed that smaller quantities of Salt caused putrefaction to occur faster than expected.",
+      "quote": "\"It is moreover to be remarked, that in warm Infusions with these smaller Quantities, the Salt, instead of hardening the Flesh, as it does in a dry Form, in Brine, or even in Solutions, such as our Standard, it here softens and re-laxes the Texture of the Meat, more than plain Water; tho’ much less than Water with Chalk, or the testac- cous Powders.\"",
+      "outcome": "Caused putrefaction to occur faster.",
+      "location": "",
+      "individuals": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "private study",
+      "geography": null,
+      "detail": null
+    },
+    {
+      "place": null,
+      "geography": "London",
+      "detail": null
+    }
+  ]
+}

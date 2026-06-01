@@ -1,0 +1,154 @@
+[
+  {
+    "jstor_id": "1287234",
+    "model": "gemma4:e2b",
+    "elapsed_s": 15.26,
+    "is_experiment": "yes",
+    "n_locations": 3
+  },
+  {
+    "jstor_id": "1287234",
+    "model": "ministral-3:3b",
+    "elapsed_s": 3.54,
+    "is_experiment": "yes",
+    "n_locations": 2
+  },
+  {
+    "jstor_id": "1287234",
+    "model": "qwen3.5:2b",
+    "elapsed_s": 94.24,
+    "n_experiments": 3
+  },
+  {
+    "jstor_id": "1287234",
+    "model": "qwen3.5:4b",
+    "elapsed_s": 141.42,
+    "n_experiments": 2
+  },
+  {
+    "jstor_id": "1287234",
+    "model": "phi3.5:latest",
+    "elapsed_s": 28.96,
+    "n_experiments": 1
+  },
+  {
+    "jstor_id": "1287234",
+    "model": "llama3.2:3b",
+    "elapsed_s": 9.14,
+    "n_experiments": 1
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "gemma4:e2b",
+    "elapsed_s": 16.01,
+    "is_experiment": "yes",
+    "n_locations": 1
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "ministral-3:3b",
+    "elapsed_s": 37.11,
+    "is_experiment": "yes",
+    "n_locations": 4
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "qwen3.5:2b",
+    "elapsed_s": 131.64,
+    "n_experiments": 10
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "qwen3.5:4b",
+    "elapsed_s": 191.98,
+    "n_experiments": 10
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "phi3.5:latest",
+    "elapsed_s": 111.04,
+    "n_experiments": 4
+  },
+  {
+    "jstor_id": "1283459",
+    "model": "llama3.2:3b",
+    "elapsed_s": 91.0,
+    "n_experiments": 22
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "gemma4:e2b",
+    "elapsed_s": 15.13,
+    "is_experiment": "yes",
+    "n_locations": 1
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "ministral-3:3b",
+    "elapsed_s": 23.31,
+    "is_experiment": "yes",
+    "n_locations": 1
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "qwen3.5:2b",
+    "elapsed_s": 123.91,
+    "n_experiments": 3
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "qwen3.5:4b",
+    "elapsed_s": 115.37,
+    "n_experiments": 3
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "phi3.5:latest",
+    "elapsed_s": 58.07,
+    "n_experiments": 4
+  },
+  {
+    "jstor_id": "1291946",
+    "model": "llama3.2:3b",
+    "elapsed_s": 41.95,
+    "n_experiments": 9
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "gemma4:e2b",
+    "elapsed_s": 15.55,
+    "is_experiment": "yes",
+    "n_locations": 1
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "ministral-3:3b",
+    "elapsed_s": 30.52,
+    "is_experiment": "yes",
+    "n_locations": 4
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "qwen3.5:2b",
+    "elapsed_s": 157.81,
+    "n_experiments": 13
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "qwen3.5:4b",
+    "elapsed_s": 261.05,
+    "n_experiments": 19
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "phi3.5:latest",
+    "elapsed_s": 153.0,
+    "n_experiments": 12
+  },
+  {
+    "jstor_id": "1291347",
+    "model": "llama3.2:3b",
+    "elapsed_s": 74.16,
+    "n_experiments": 11
+  }
+]

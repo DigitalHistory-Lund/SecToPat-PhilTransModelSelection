@@ -1,0 +1,21 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "private study or laboratory setting within Grefham College",
+      "geography": "London, England",
+      "detail": null
+    },
+    {
+      "place": "laboratory setup with a Receiver in Mr. Fr. Hauksbee's possession",
+      "geography": "London, England",
+      "detail": null
+    },
+    {
+      "place": "outdoor location where Malt dust was collected and observed before being placed into the Receiver",
+      "geography": "not specified but implied to be in London based on publication city",
+      "detail": null
+    }
+  ]
+}

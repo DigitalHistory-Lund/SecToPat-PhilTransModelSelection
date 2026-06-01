@@ -1,0 +1,27 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "Receiver",
+      "geography": null,
+      "detail": "tall"
+    },
+    {
+      "place": "Grefham College",
+      "geography": null,
+      "detail": null
+    },
+    {
+      "place": "St Paul's Church-yard",
+      "geography": "London",
+      "detail": "at the Princes Arms"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Mr Fr. Hauksbee",
+      "role": "author"
+    }
+  ]
+}

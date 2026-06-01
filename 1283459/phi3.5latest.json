@@ -1,0 +1,41 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "window",
+      "geography": "null",
+      "detail": "a south window"
+    },
+    {
+      "place": "quiet and well enlighten'd place",
+      "geography": "null",
+      "detail": "not specified within a room or building scale"
+    },
+    {
+      "place": "window (repeated mention)",
+      "geography": "null",
+      "detail": "no specific detail given for multiple instances of window use in the experiments"
+    },
+    {
+      "place": "quiet and well enlighten'd place, repeated instance",
+      "geography": "null",
+      "detail": "not specified within a room or building scale but implies an indoor setting similar to 'window'"
+    },
+    {
+      "place": "south window (specific mention)",
+      "geography": "null",
+      "detail": "no specific spatial detail given for this south-facing location"
+    },
+    {
+      "place": "quiet and well enlighten'd place, repeated instance with Mercury gage setup",
+      "geography": "null",
+      "detail": "not specified within a room or building scale but implies an indoor setting similar to 'window'"
+    },
+    {
+      "place": "south window (specific mention)",
+      "geography": "null",
+      "detail": "no specific spatial detail given for this south-facing location"
+    }
+  ]
+}

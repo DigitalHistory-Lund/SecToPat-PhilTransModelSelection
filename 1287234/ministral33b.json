@@ -1,0 +1,22 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "Evacuated Receiver",
+      "geography": "Grefham College",
+      "detail": null
+    },
+    {
+      "place": "Receiver",
+      "geography": null,
+      "detail": "tall Receiver"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Mr. Francis Hauksbee",
+      "role": "experimenter"
+    }
+  ]
+}

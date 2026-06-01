@@ -1,0 +1,17 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "private study",
+      "geography": null,
+      "detail": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "John Pringle",
+      "role": "author"
+    }
+  ]
+}

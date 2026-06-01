@@ -1,0 +1,32 @@
+{
+  "source_file": "article.txt",
+  "is_experiment": "yes",
+  "locations": [
+    {
+      "place": "laboratory or workshop setting (e.g., a kitchen, workshop, or private study)",
+      "geography": "London (implied, as the article is published in the *Philosophical Transactions of the Royal Society*, which was based in London)",
+      "detail": null
+    },
+    {
+      "place": "a furnace or lamp furnace (for heating experiments)",
+      "geography": null,
+      "detail": "Furnace or Lamp-Furnace"
+    },
+    {
+      "place": "a fire or warm setting (e.g., near a fire or in a heated environment)",
+      "geography": null,
+      "detail": "near a Fire"
+    },
+    {
+      "place": "a phial or glass container (for holding liquids and mixtures)",
+      "geography": null,
+      "detail": null
+    }
+  ],
+  "participants": [
+    {
+      "name": "John Pringle, M.D. F.R.S.",
+      "role": "author, experimenter, and contributor"
+    }
+  ]
+}
