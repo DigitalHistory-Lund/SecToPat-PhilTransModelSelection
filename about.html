@@ -49,6 +49,25 @@ code { background: #eee; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.
     original article text.
   </p>
 
+  <h2>Prompts</h2>
+  <p>The extraction schema evolved during benchmarking. Two prompt versions are present in the data. Structured output was enforced via JSON schema using the Ollama API.</p>
+  <p><strong>v2 — 3 questions</strong> (gemma4, ministral-3):</p>
+  <pre style="background:#f0f0f0;padding:0.75rem 1rem;border-radius:4px;font-size:0.8rem;line-height:1.55;white-space:pre-wrap;margin-bottom:0.75rem">You are analysing an article from the Philosophical Transactions of the Royal Society (17th–19th century). Answer three questions:
+
+1. is_experiment: Does this article describe one or more experiments or systematic observations? Answer "yes", "no", or "unsure".
+
+2. locations: List every spatial location where an experiment or observation took place. For each, provide:
+   - place: the immediate setting at room or building scale (e.g. "private study", "ship's cabin", "kitchen"); null if not mentioned
+   - geography: named place at city, region, country, estate, or vessel scale (e.g. "London", "aboard HMS Endeavour"); null if not mentioned
+   - detail: specific spatial detail within the place (e.g. "by the south window", "in a dark corner"); null if not mentioned
+Do not include apparatus or containers as locations. Return an empty list if no spatial setting is mentioned.
+
+3. participants: List every person named in the article who conducted, observed, or contributed to the experiment or observation. For each, provide:
+   - name: the person's name as it appears in the text
+   - role: their role if stated (e.g. "experimenter", "observer", "subject", "correspondent", "author"); null if not clear
+Return an empty list if no individuals are named.</pre>
+  <p><strong>v1 — 2 questions</strong> (llama3.2, phi3.5, qwen3.5): same as v2 but without question 3 (participants). Output schema: <code>is_experiment</code> + <code>locations</code> only.</p>
+
   <h2>Repository</h2>
   <p>
     Source code and data:
