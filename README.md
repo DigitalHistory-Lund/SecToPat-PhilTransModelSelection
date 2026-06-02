@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502415.svg)](https://doi.org/10.5281/zenodo.20502415)
+
+
 # Philosophical Transactions Extraction Model Comparison
 
 An interactive tool for comparing how well different local LLMs classify and
